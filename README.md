@@ -7,4 +7,4 @@ Submission by Shrijanaki | May 2026
 - `task-2-pipeline/` — Python data pipeline using Open-Meteo API + BigQuery
 
 ## Status
-Work in progress — submitting by Day 4.
+:Completed — submitted by Day 4.
